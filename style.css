@@ -1,0 +1,10 @@
+body {
+  background-image: url(https://image.shutterstock.com/z/stock-photo-white-triangular-abstract-background-grunge-surface-d-rendering-407563510.jpg);
+}
+
+@media (max-width: 600px) {
+  #canvas {
+    width: 100%;
+    height: 100%;
+  }
+}
